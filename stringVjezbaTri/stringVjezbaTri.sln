@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stringVjezbaTri", "stringVjezbaTri\stringVjezbaTri.csproj", "{AAE6ED89-7A8E-4359-A9D4-9F0E823F5141}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAE6ED89-7A8E-4359-A9D4-9F0E823F5141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAE6ED89-7A8E-4359-A9D4-9F0E823F5141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAE6ED89-7A8E-4359-A9D4-9F0E823F5141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAE6ED89-7A8E-4359-A9D4-9F0E823F5141}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BCEAEA1-3982-46EA-A03E-2F354E4502F0}
+	EndGlobalSection
+EndGlobal
